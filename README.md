@@ -1,0 +1,2 @@
+In this project, we have implemented a token based on the BEP_20 standard, which we named after the efforts of Satoshi Nakamoto.
+This project consists of two files, BEP_20.sol and library that we used it SefeMath.sol library.
